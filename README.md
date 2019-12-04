@@ -1,6 +1,6 @@
-## Hi, Welcome to Reservoir Characterization with Artificial Intelligence Pages
+## Hi, Welcome to Reservoir Characterization with Artificial Intelligence
 
-You can use the [editor on GitHub](https://github.com/rafaelfvcs/Reservoir-Characterization-with-Artificial-Intelligence/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For more details you can see [editor on GitHub](https://github.com/rafaelfvcs/Reservoir-Characterization-with-Artificial-Intelligence/edit/master/README.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
